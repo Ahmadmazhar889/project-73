@@ -33,3 +33,14 @@ body {
     width: auto;
     height: 100vh;
 }
+.about {
+    background-color: #313552;
+    border-radius: 0.5rem;
+}
+footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: 2rem;
+}
