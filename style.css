@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: #252525;
+    font-family: "Chalkboard", cursive;
+}
+.m-heading {
+    font-family: "Times New Roman", serif;
+}
+.text-white {
+    color: white;
+}
+.main-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://t4.ftcdn.net/jpg/02/92/20/37/360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.main-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-row h1 {
+    font-size: 5rem;
+}
+.main-row img {
+    width: auto;
+    height: 100vh;
+}
