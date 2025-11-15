@@ -44,3 +44,25 @@ footer {
     text-align: center;
     margin-top: 2rem;
 }
+.main_row h1 {
+    font-size: 5rem;
+}
+.main_row img {
+    width: auto;
+    height: 100vh;
+}
+#social-media {
+    background-color: #31524d;
+}
+.media_link {
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #f5ba09;
+    margin-left: 1rem;
+    border-radius: 0.5rem;
+    max-width: none;
+}
